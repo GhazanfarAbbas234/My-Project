@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">My First App</string>
+    <string name="hint_text" translatable="false">Hint Text</string>
+    <string name="button_send" translatable="false">Send</string>
+</resources>
